@@ -1,10 +1,10 @@
 # Digital_Cairo
 GIS &amp; GTFS Transit data for the GCR, produced by the Digital Cairo project.
 
-#GIS:
+## GIS:
 The Stops and Trips data for the GCR in Shapefile format.
 
-#GTFS:
+## GTFS:
 20180820_GTFSfullworking_Bus_Metro. is a functioning and complete GTFS feed for the formal and pratransit in the GCR + the Cairo metro, including the new fare structure accurate as of June 2018. 
 20180820_GTFS_CTA-Paratransit_working. is a functioning GTFS for the formal and paratransit in the GCR.
 
