@@ -1,2 +1,0 @@
-feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Transport for Cairo,http://transportforcairo.com/,en,20180814,20180915,1.20082018

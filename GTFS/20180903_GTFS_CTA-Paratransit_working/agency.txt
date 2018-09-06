@@ -1,0 +1,7 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+CTA,Cairo Transport Authority,http://transportforcairo.com/,Africa/Cairo,en,,
+CTA_M,Minibus licensed by CTA,http://transportforcairo.com/,Africa/Cairo,en,,
+BOX,Box Paratransit,http://transportforcairo.com/,Africa/Cairo,en,,
+P_B_8,Paratransit 8 Seater Suzuki Chevrolet or DMF (Blue Licenseplates),http://transportforcairo.com/,Africa/Cairo,en,,
+P_O_14,Paratransit 14 Seater Microbus (Orange Licenseplates),http://transportforcairo.com/,Africa/Cairo,en,,
+COOP,Cooperative paratransit 29 Seater (Grey Licenseplates),http://transportforcairo.com/,Africa/Cairo,en,,

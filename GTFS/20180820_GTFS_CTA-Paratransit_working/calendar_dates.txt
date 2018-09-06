@@ -1,2 +1,0 @@
-service_id,date,exception_type
-Ground_Daily,20170104,2

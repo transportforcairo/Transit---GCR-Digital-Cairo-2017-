@@ -1,3 +1,0 @@
-service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-Metro_Daily,1,1,1,1,1,1,1,20180601,20181231
-Ground_Daily,1,1,1,1,1,1,1,20180814,20180915

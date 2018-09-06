@@ -1,2 +1,0 @@
-service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-Ground_Daily,1,1,1,1,1,1,1,20180814,20180915

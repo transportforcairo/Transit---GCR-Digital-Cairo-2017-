@@ -1,3 +1,0 @@
-service_id,date,exception_type
-Metro_Daily,20160201,2
-Ground_Daily,20170104,2
