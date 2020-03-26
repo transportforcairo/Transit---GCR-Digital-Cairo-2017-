@@ -12,4 +12,4 @@ The Stops and Trips data for the GCR in Shapefile format.
 
 > The data is published under a Creative Commons CC BY-NC license. For proper attribution, please add the following text "This data was created by Transport for Cairo ’TfC' with DigitalMatatus and Takween for Integrated Community Development, under the Digital Cairo Project supported by ExpoLive 2020."
 
-![alt text](http://transportforcairo.com/wp-content/uploads/2018/08/Digital-Cairo-banner.jpg)
+![alt text](https://transportforcairo.com/wp-content/uploads/2019/06/banner_transparent-1024x277.png)
